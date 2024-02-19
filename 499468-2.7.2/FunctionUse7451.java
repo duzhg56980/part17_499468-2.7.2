@@ -1,0 +1,6 @@
+import org.apache.dubbo.common.serialize.nativejava.NativeJavaObjectOutput;
+public class FunctionUse7451 {
+public void funcUse() {
+NativeJavaObjectOutput nativejavaobjectoutput = new NativeJavaObjectOutput();
+}
+}
